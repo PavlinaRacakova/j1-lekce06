@@ -17,5 +17,4 @@ public class HlavniProgram {
         new NakupniSeznam().run();
         new Osoba("Honza", "Nebojsa").run();
     }
-
 }
